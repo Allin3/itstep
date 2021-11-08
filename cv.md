@@ -5,7 +5,7 @@
 [vk.com](https://vk.com/id160885912)
 
 
-[Git репозиторий](https://github.com/Allin3/itstep1)
+[Git репозиторий](git@github.com:Allin3/itstep.git)
 
 
 
